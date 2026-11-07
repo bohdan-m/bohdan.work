@@ -7,7 +7,7 @@
   linkedin:   your LinkedIn profile URL. The footer link appears once it is set.
 */
 window.SITE = {
-  bookingUrl: "",
+  bookingUrl: "https://cal.com/bohdan-matvieiev/intro-call",
   email: "hello@bohdan.work",
   linkedin: ""
 };
