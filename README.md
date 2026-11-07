@@ -1,6 +1,6 @@
 # bohdan.work (v2)
 
-`public/` is the website: upload exactly this folder to the host (Cloudflare Pages or Netlify). Everything outside it is for working on the site and is never published.
+`public/` is the website, published with Cloudflare Pages on every push to `main`. `functions/` adds byte ranges for the videos, so they can seek. Everything else is for working on the site and is never published.
 
 ## Preview
 

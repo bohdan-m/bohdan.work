@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://bohdan.work/</loc></url>
-  <url><loc>https://bohdan.work/work.html</loc></url>
-  <url><loc>https://bohdan.work/about.html</loc></url>
-  <url><loc>https://bohdan.work/legal.html</loc></url>
+  <url><loc>https://bohdan.work/work</loc></url>
+  <url><loc>https://bohdan.work/about</loc></url>
+  <url><loc>https://bohdan.work/legal</loc></url>
 </urlset>
